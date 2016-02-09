@@ -31,7 +31,7 @@
     "shim": {
       "jquery.signalr-2.2.0": {
         "deps": [
-          "components/jquery"
+          "github:components/jquery"
         ],
         "exports": "$.connection"
       }
