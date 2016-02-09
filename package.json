@@ -24,9 +24,7 @@
   "contributors": [
     "Danny Frencham (https://diydeveloper.io)"
   ],
-  "dependencies": {
-    "components/jquery": ">=1.6.4"
-  },
+
   "jspm": {
     "format": "global",
     "registry": "github",
