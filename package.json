@@ -29,7 +29,7 @@
   },
   "jspm": {
     "format": "global",
-    "registry": "jspm",
+    "registry": "github",
     "shim": {
       "jquery.signalr-2.2.0": {
         "deps": [
